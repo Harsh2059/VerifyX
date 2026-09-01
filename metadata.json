@@ -1,0 +1,6 @@
+{
+  "name": "VERIFYX - Adaptive Evidence Verification",
+  "description": "Automated evidence verification, document OCR analysis, minimum sufficient evidence synthesis, and conflict resolution platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
